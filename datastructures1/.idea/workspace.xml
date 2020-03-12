@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fb9d7e4-6353-42b1-92d1-087effcd56e9" name="Default Changelist" comment="" />
+    <list default="true" id="0fb9d7e4-6353-42b1-92d1-087effcd56e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lists/Smallest_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/append_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/circular_identical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/cloning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/common_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/dup_list_of_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/frst_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/increasig_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/len_of_lngstword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/permutaion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/remove_ele.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/remove_elemets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YyE2mRmhr1JXXoWChBggujDSFZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,8 +48,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.Max_Min">
-    <configuration name="Max_Min" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dup_list_of_lists">
+    <configuration name="append_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -34,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/Max_Min.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/append_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Symmentric_diff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="circular_identical" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/Symmentric_diff.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/circular_identical.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="clear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="common_items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/clear.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/common_items.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dup_list_of_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/difference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/dup_list_of_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="frozen_sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="frst_char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/frozen_sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/frst_char.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Max_Min" />
-        <item itemvalue="Python.frozen_sets" />
-        <item itemvalue="Python.clear" />
-        <item itemvalue="Python.Symmentric_diff" />
-        <item itemvalue="Python.difference" />
+        <item itemvalue="Python.dup_list_of_lists" />
+        <item itemvalue="Python.frst_char" />
+        <item itemvalue="Python.common_items" />
+        <item itemvalue="Python.circular_identical" />
+        <item itemvalue="Python.append_list" />
       </list>
     </recent_temporary>
   </component>
@@ -163,26 +186,30 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="390" y="27" width="642" height="741" key="#index/67.27.1299.741@67.27.1299.741" timestamp="1583907302836" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1583929413505">
+    <state width="1276" height="157" key="GridCell.Tab.0.bottom" timestamp="1583996571744">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583929413505" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1583929413505">
+    <state width="1276" height="157" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583996571744" />
+    <state width="1276" height="157" key="GridCell.Tab.0.center" timestamp="1583996571743">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583929413505" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1583929413504">
+    <state width="1276" height="157" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583996571743" />
+    <state width="1276" height="157" key="GridCell.Tab.0.left" timestamp="1583996571743">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583929413504" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1583929413505">
+    <state width="1276" height="157" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583996571743" />
+    <state width="1276" height="157" key="GridCell.Tab.0.right" timestamp="1583996571743">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583929413505" />
+    <state width="1276" height="157" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583996571743" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1583906699056">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583906699056" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583986779479">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583986779479" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583922034722">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
