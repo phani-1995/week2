@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fb9d7e4-6353-42b1-92d1-087effcd56e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tuple/List_to_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/colon_of_tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/create_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/ele_in_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/remove_item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/repeated_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/reverse_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/slice_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/tup_Diff_dtype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple/unpack_tup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Len_of_strng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Upper_lower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Width.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/add_ing_ly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/count_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/csv_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/first_Occurance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/last_prt_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/n_lowercase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/return_longest_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/sub_str_count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +43,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.reverse_tuple">
-    <configuration name="List_to_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.n_lowercase">
+    <configuration name="Width" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/List_to_tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Width.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ele_in_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="last_prt_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/ele_in_tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/last_prt_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remove_item" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="n_lowercase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/remove_item.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/n_lowercase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/reverse_tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slice_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sub_str_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/slice_tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/sub_str_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.reverse_tuple" />
-        <item itemvalue="Python.slice_tuple" />
-        <item itemvalue="Python.remove_item" />
-        <item itemvalue="Python.List_to_tuple" />
-        <item itemvalue="Python.ele_in_tuple" />
+        <item itemvalue="Python.n_lowercase" />
+        <item itemvalue="Python.reverse" />
+        <item itemvalue="Python.sub_str_count" />
+        <item itemvalue="Python.Width" />
+        <item itemvalue="Python.last_prt_str" />
       </list>
     </recent_temporary>
   </component>
@@ -179,22 +181,38 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="390" y="27" width="642" height="741" key="#index/67.27.1299.741@67.27.1299.741" timestamp="1583907302836" />
-    <state width="1276" height="157" key="GridCell.Tab.0.bottom" timestamp="1584005578900">
+    <state width="1276" height="157" key="GridCell.Tab.0.bottom" timestamp="1584013749752">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
-    <state width="1276" height="157" key="GridCell.Tab.0.center" timestamp="1584005578900">
+    <state width="1276" height="157" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
+    <state width="1276" height="157" key="GridCell.Tab.0.center" timestamp="1584013749752">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
-    <state width="1276" height="157" key="GridCell.Tab.0.left" timestamp="1584005578900">
+    <state width="1276" height="157" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
+    <state width="1276" height="157" key="GridCell.Tab.0.left" timestamp="1584013749752">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
-    <state width="1276" height="157" key="GridCell.Tab.0.right" timestamp="1584005578900">
+    <state width="1276" height="157" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
+    <state width="1276" height="157" key="GridCell.Tab.0.right" timestamp="1584013749752">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
+    <state width="1276" height="157" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom" timestamp="1584009124365">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
+    <state width="1276" height="219" key="GridCell.Tab.1.center" timestamp="1584009124365">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
+    <state width="1276" height="219" key="GridCell.Tab.1.left" timestamp="1584009124365">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
+    <state width="1276" height="219" key="GridCell.Tab.1.right" timestamp="1584009124365">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1583906699056">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
