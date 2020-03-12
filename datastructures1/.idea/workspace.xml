@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fb9d7e4-6353-42b1-92d1-087effcd56e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lists/Smallest_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/append_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/circular_identical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/cloning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/common_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/dup_list_of_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/frst_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/increasig_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/len_of_lngstword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/multiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/permutaion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/remove_ele.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/remove_elemets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/List_to_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/colon_of_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/create_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/ele_in_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/remove_item.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/repeated_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/reverse_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/slice_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/tup_Diff_dtype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuple/unpack_tup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +41,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.dup_list_of_lists">
-    <configuration name="append_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.reverse_tuple">
+    <configuration name="List_to_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/append_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/List_to_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="circular_identical" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ele_in_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/circular_identical.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/ele_in_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="common_items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="remove_item" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/common_items.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/remove_item.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dup_list_of_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/dup_list_of_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/reverse_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="frst_char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="slice_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists/frst_char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/slice_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dup_list_of_lists" />
-        <item itemvalue="Python.frst_char" />
-        <item itemvalue="Python.common_items" />
-        <item itemvalue="Python.circular_identical" />
-        <item itemvalue="Python.append_list" />
+        <item itemvalue="Python.reverse_tuple" />
+        <item itemvalue="Python.slice_tuple" />
+        <item itemvalue="Python.remove_item" />
+        <item itemvalue="Python.List_to_tuple" />
+        <item itemvalue="Python.ele_in_tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -186,22 +179,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="390" y="27" width="642" height="741" key="#index/67.27.1299.741@67.27.1299.741" timestamp="1583907302836" />
-    <state width="1276" height="157" key="GridCell.Tab.0.bottom" timestamp="1583996571744">
+    <state width="1276" height="157" key="GridCell.Tab.0.bottom" timestamp="1584005578900">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583996571744" />
-    <state width="1276" height="157" key="GridCell.Tab.0.center" timestamp="1583996571743">
+    <state width="1276" height="157" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
+    <state width="1276" height="157" key="GridCell.Tab.0.center" timestamp="1584005578900">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583996571743" />
-    <state width="1276" height="157" key="GridCell.Tab.0.left" timestamp="1583996571743">
+    <state width="1276" height="157" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
+    <state width="1276" height="157" key="GridCell.Tab.0.left" timestamp="1584005578900">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583996571743" />
-    <state width="1276" height="157" key="GridCell.Tab.0.right" timestamp="1583996571743">
+    <state width="1276" height="157" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
+    <state width="1276" height="157" key="GridCell.Tab.0.right" timestamp="1584005578900">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583996571743" />
+    <state width="1276" height="157" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584005578900" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1583906699056">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
