@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fb9d7e4-6353-42b1-92d1-087effcd56e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Strings/Len_of_strng.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Upper_lower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Width.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/add_ing_ly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/count_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/csv_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/first_Occurance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/last_prt_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/n_lowercase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/return_longest_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/sub_str_count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -32,19 +21,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YyE2mRmhr1JXXoWChBggujDSFZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Json" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.n_lowercase">
-    <configuration name="Width" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Stock_acc_mangmnt">
+    <configuration name="Inventory_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +45,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Width.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json/Inventory_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="last_prt_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Inventory_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/last_prt_str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json/Inventory_manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="n_lowercase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Stock_acc_mangmnt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/n_lowercase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json/Stock_acc_mangmnt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="address11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json/address11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sub_str_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="address_book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="datastructures1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/sub_str_count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Json/address_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.n_lowercase" />
-        <item itemvalue="Python.reverse" />
-        <item itemvalue="Python.sub_str_count" />
-        <item itemvalue="Python.Width" />
-        <item itemvalue="Python.last_prt_str" />
+        <item itemvalue="Python.Stock_acc_mangmnt" />
+        <item itemvalue="Python.Inventory_manager" />
+        <item itemvalue="Python.Inventory_data" />
+        <item itemvalue="Python.address11" />
+        <item itemvalue="Python.address_book" />
       </list>
     </recent_temporary>
   </component>
@@ -172,55 +165,66 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="390" y="27" width="642" height="741" key="#array" timestamp="1583907281610">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="390" y="27" width="642" height="741" key="#array/67.27.1299.741@67.27.1299.741" timestamp="1583907281610" />
+    <state x="419" y="201" width="642" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584077589485">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="419" y="201" width="642" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1584077589485" />
     <state x="390" y="27" width="642" height="741" key="#index" timestamp="1583907302836">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="390" y="27" width="642" height="741" key="#index/67.27.1299.741@67.27.1299.741" timestamp="1583907302836" />
-    <state width="1276" height="157" key="GridCell.Tab.0.bottom" timestamp="1584013749752">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584083838678">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
-    <state width="1276" height="157" key="GridCell.Tab.0.center" timestamp="1584013749752">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584083838678" />
+    <state width="1276" height="183" key="GridCell.Tab.0.bottom" timestamp="1584083842063">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
-    <state width="1276" height="157" key="GridCell.Tab.0.left" timestamp="1584013749752">
+    <state width="1276" height="183" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584083842063" />
+    <state width="1276" height="183" key="GridCell.Tab.0.center" timestamp="1584083842063">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
-    <state width="1276" height="157" key="GridCell.Tab.0.right" timestamp="1584013749752">
+    <state width="1276" height="183" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584083842063" />
+    <state width="1276" height="183" key="GridCell.Tab.0.left" timestamp="1584083842063">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="157" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584013749752" />
-    <state width="1276" height="219" key="GridCell.Tab.1.bottom" timestamp="1584009124365">
+    <state width="1276" height="183" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584083842063" />
+    <state width="1276" height="183" key="GridCell.Tab.0.right" timestamp="1584083842063">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
-    <state width="1276" height="219" key="GridCell.Tab.1.center" timestamp="1584009124365">
+    <state width="1276" height="183" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584083842063" />
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom" timestamp="1584021167990">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
-    <state width="1276" height="219" key="GridCell.Tab.1.left" timestamp="1584009124365">
+    <state width="1276" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584021167990" />
+    <state width="1276" height="219" key="GridCell.Tab.1.center" timestamp="1584021167990">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
-    <state width="1276" height="219" key="GridCell.Tab.1.right" timestamp="1584009124365">
+    <state width="1276" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1584021167990" />
+    <state width="1276" height="219" key="GridCell.Tab.1.left" timestamp="1584021167989">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584009124365" />
+    <state width="1276" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1584021167989" />
+    <state width="1276" height="219" key="GridCell.Tab.1.right" timestamp="1584021167990">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1584021167990" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1583906699056">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583906699056" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583986779479">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1584070224029">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583986779479" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1584070224029" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583922034722">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

@@ -1,0 +1,13 @@
+{
+    "personalDetail": [
+        {
+            "firstname": "karthik",
+            "lastName": "K",
+            "address": "bandlaguda",
+            "city": "hyderabad",
+            "state": "telangana",
+            "zip": "500095",
+            "phoneNumber": "9026738365"
+        }
+    ]
+}

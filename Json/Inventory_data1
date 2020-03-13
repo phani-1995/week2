@@ -1,0 +1,68 @@
+{
+  "Rice": [
+    {
+        "name": "Basuamti",
+        "price": 150,
+        "weight": 10
+    },
+    {
+        "name": "Brown Rice",
+        "price": 120,
+        "weight": 20
+    },
+    {
+        "name": "India Rice",
+        "price": 95,
+        "weight": 15
+    }],
+  "Bread": [
+    {
+        "name": "Brown Bread",
+        "price": 50,
+        "weight": 450
+    },
+    {
+        "name": "Milk Bread",
+        "price": 30,
+        "weight": 500
+    }],
+  "Pulses":[
+    {
+      "name": "chickpeas",
+      "price": 70,
+      "weight": 250
+    },
+    {
+      "name": "Green gram beans",
+      "price": 250,
+      "weight": 100
+    },
+    {
+      "name": "Moong dal",
+      "price": 150,
+      "weight": 10
+    }],
+  "Oils": [
+    {
+      "name": "sun flower oil",
+      "price": 110,
+      "weight": 800
+    },
+    {
+      "name": "Fish liver oil",
+      "price": 200,
+      "weight": 200
+    }],
+    "Flours": [
+      {
+        "name": "Corn floor",
+        "price": 70,
+        "weight": 950
+      },
+      {
+        "name": "Wheat floor",
+        "price": 80,
+        "weight": 800
+      }]
+
+}
